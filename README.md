@@ -7,7 +7,7 @@ and autonomously with the help of a camera. The car could switch between manual 
 Other features include increasing and decreasing speed and providing runtime data.
 Infared sensors were used previously to detect black lines on a white board.
 A camera was added to replace the sensors to add more challenges and introduce image processing.
-The program was multi-threaded in order to manage and work with all the componenets of the car.
+The program was multi-threaded in order to manage and work with all the components of the car.
 The work that I did is located in the hw7feng.c file.
 
 Photo of the WIP remote control car
